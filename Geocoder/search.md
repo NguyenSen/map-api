@@ -134,3 +134,4 @@ Dưới đây là danh sách các `layer` bạn có thể tìm thấy trong kế
 | `boundary.circle.radius` | floating point number | no | 50 | `35` |
 | `layers` | string | no | all layers: address,venue,locality,county,region,country | address,venue |
 | `size` | integer | no | 10 | 20 |
+| `api-version` | text | yes | 1.1 | 1.1 |
